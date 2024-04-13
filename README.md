@@ -1,1 +1,1 @@
-Landing Page for UC Berkeley Schools of Information - Master in Information and Data Sciene. By Tom Yedwab, Yiran Sheng, Mahadevan Rajagopalan, and Samuel Kahn. 
+Website Final Deliverable for DATASCI 210 Capstone at the UC Berkeley School of Information, Master in Information and Data Science program. Team Members: Claira Kauffmann, Jared Feldman, Silas Santini, and Steven Tseng.
